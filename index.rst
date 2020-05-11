@@ -24,7 +24,6 @@
 .. toctree::
   :maxdepth: 2
   :caption: Citrix EUC Labs
-  :name: _euccitrix
   :hidden:
 
   3-citrix/gettingstarted/gettingstarted

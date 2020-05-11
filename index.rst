@@ -20,7 +20,7 @@
    2-aosandahv/lab_deploy_workloads/lab_deploy_workloads
    2-aosandahv/lab_manage_workloads/lab_manage_workloads
    2-aosandahv/lab_data_protection/lab_data_protection
-   
+
 .. toctree::
    :maxdepth: 2
    :caption: Citrix EUC Labs
@@ -36,7 +36,7 @@
    3-citrix/flow_secure_desktops/flow_secure_desktops
    3-citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
    3-citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
-  
+
 .. toctree::
    :maxdepth: 2
    :caption: Anhang Labs

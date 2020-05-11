@@ -22,20 +22,20 @@
    2-aosandahv/lab_data_protection/lab_data_protection
    
 .. toctree::
-  :maxdepth: 2
-  :caption: Citrix EUC Labs
-  :hidden:
+   :maxdepth: 2
+   :caption: Citrix EUC Labs
+   :hidden:
 
-  3-citrix/gettingstarted/gettingstarted
-  3-citrix/goldimage/goldimage
-  3-citrix/pdesktops/pdesktops
-  3-citrix/npdesktops/npdesktops
-  3-citrix/updatecatalog/updatecatalog
-  3-citrix/files/files
-  3-citrix/flow_quarantine_vm/flow_quarantine_vm
-  3-citrix/flow_secure_desktops/flow_secure_desktops
-  3-citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
-  3-citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
+   3-citrix/gettingstarted/gettingstarted
+   3-citrix/goldimage/goldimage
+   3-citrix/pdesktops/pdesktops
+   3-citrix/npdesktops/npdesktops
+   3-citrix/updatecatalog/updatecatalog
+   3-citrix/files/files
+   3-citrix/flow_quarantine_vm/flow_quarantine_vm
+   3-citrix/flow_secure_desktops/flow_secure_desktops
+   3-citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
+   3-citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
   
 .. toctree::
    :maxdepth: 2

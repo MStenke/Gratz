@@ -56,8 +56,8 @@ Infrastruktur IPs
     - 10.42.58.38
   * - **Prism Central**
     - 10.42.58.39
-  * - **ERA VM IP**
-    - 10.42.58.22
+  * - **XenDesktop DDC**
+    - 10.42.58.45
 
 
 Zugangsdaten

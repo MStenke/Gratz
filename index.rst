@@ -27,16 +27,16 @@
   :name: _euccitrix
   :hidden:
 
-  2-Citrix/gettingstarted/gettingstarted
-  2-Citrix/goldimage/goldimage
-  2-Citrix/pdesktops/pdesktops
-  2-Citrix/npdesktops/npdesktops
-  2-Citrix/updatecatalog/updatecatalog
-  2-Citrix/files/files
-  2-Citrix/flow_quarantine_vm/flow_quarantine_vm
-  2-Citrix/flow_secure_desktops/flow_secure_desktops
-  2-Citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
-  2-Citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
+  3-citrix/gettingstarted/gettingstarted
+  3-citrix/goldimage/goldimage
+  3-citrix/pdesktops/pdesktops
+  3-citrix/npdesktops/npdesktops
+  3-citrix/updatecatalog/updatecatalog
+  3-citrix/files/files
+  3-citrix/flow_quarantine_vm/flow_quarantine_vm
+  3-citrix/flow_secure_desktops/flow_secure_desktops
+  3-citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
+  3-citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
   
 .. toctree::
    :maxdepth: 2

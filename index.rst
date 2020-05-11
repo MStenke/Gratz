@@ -9,17 +9,6 @@
    1-hpoc-infos/clusteraccess/clusteraccess
    1-hpoc-infos/clusterdetails/clusterdetails
 
-.. toctree::
-   :maxdepth: 2
-   :caption: AOS und AHV Labs
-   :hidden:
-
-   2-aosandahv/lab_nutanix_tech_overview/lab_nutanix_tech_overview
-   2-aosandahv/lab_storage_configuration/lab_storage_configuration
-   2-aosandahv/lab_network_configuration/lab_network_configuration
-   2-aosandahv/lab_deploy_workloads/lab_deploy_workloads
-   2-aosandahv/lab_manage_workloads/lab_manage_workloads
-   2-aosandahv/lab_data_protection/lab_data_protection
 
 .. toctree::
    :maxdepth: 2
@@ -36,6 +25,7 @@
    3-citrix/flow_secure_desktops/flow_secure_desktops
    3-citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
    3-citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
+
 
 .. toctree::
    :maxdepth: 2
